@@ -1,5 +1,14 @@
 # Programming Assignment 2
 ## TOC
+- [Programming Assignment 2](#programming-assignment-2)
+  - [TOC](#toc)
+  - [Main](#main)
+    - [PA Desription](#pa-desription)
+    - [Install the Assignment](#install-the-assignment)
+    - [Notes on grading](#notes-on-grading)
+    - [Assignment 2.A](#assignment-2a)
+    - [Assignment 2.B](#assignment-2b)
+    - [Assignment 2.C](#assignment-2c)
 
 ## Main
 - [Last Revision 1/19/23, 4:24PM]
