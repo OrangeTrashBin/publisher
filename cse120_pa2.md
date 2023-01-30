@@ -212,7 +212,7 @@ the program, do you notice any different behavior?  Can you explain why?
 Hint: this behavior can only be justified by considering what must be
 saved in (and restored from) env.
 
-```C
+```c
 #include <setjmp.h>
 #include "aux.h"
 #include "umix.h"
