@@ -406,7 +406,7 @@ program's behavior?
 Implement your solution so that the program below continues to work
 properly.  Make sure your code allows a thread to yield to itself.
 
-```C
+```c
 #include "aux.h"
 #include "umix.h"
 #include "mycode2.h"
@@ -563,7 +563,7 @@ a large amount of code.  The solution is roughly 100 lines of C code
 was given to you.
 
 Good luck!
-```C
+```c
 #include "aux.h"
 #include "umix.h"
 #include "mycode2.h"
