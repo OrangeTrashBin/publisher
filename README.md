@@ -1,1 +1,3 @@
 README
+
+[CSE120 PA2](./cse120_pa2)
