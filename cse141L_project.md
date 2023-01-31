@@ -288,6 +288,7 @@ you make.
         - Program 1
         - Program 2
         - Program 3
+ 
 ### What to Submit?
 You will submit a written report that contains all of the required components of Milestone 1. It 
 is your responsibility to make this report clear and well-organized.
